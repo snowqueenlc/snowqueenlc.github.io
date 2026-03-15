@@ -1,6 +1,6 @@
 # Welcome to the Torah and Bible History Project
 
-This site explores the history, transmission, and development of the Bible and the Torah.  
+This site explores the history, transmission, and development of the Torah and the Bible.
 My goal is to present information clearly, calmly, and respectfully, so readers can explore the origins of these sacred texts and follow their own path toward understanding.
 This project began after I saw a conversation on television with a young Muslim man who shared something that stayed with me: that the Qur’an is the same everywhere in the world, while the Bible exists in many versions and interpretations. His comment wasn’t confrontational — it was honest, and it made me curious.
 
