@@ -1,7 +1,7 @@
 # History of the Bible
          
 ## Introduction
-A brief overview of what this page will explore.
+A brief overview of what this page will explore .
 
 ## The Oral Tradition
 Long before anything was written down, the earliest stories, laws, teachings, and histories of ancient Israel were preserved through spoken tradition. These teachings were memorized, recited, and passed from generation to generation within families and communities. Oral tradition formed the foundation of what would later become the written texts of the Hebrew Bible.
