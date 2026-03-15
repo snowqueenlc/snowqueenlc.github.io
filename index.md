@@ -2,7 +2,7 @@
 
 This site explores the history, transmission, and development of the Bible and the Torah.  
 My goal is to present information clearly, calmly, and respectfully, so readers can explore the origins of these sacred texts and follow their own path toward understanding.
-This project began after a conversation with a young Muslim man who shared something that stayed with me: that the Qur’an is the same everywhere in the world, while the Bible exists in many versions and interpretations. His comment wasn’t confrontational — it was honest, and it made me curious.
+This project began after I saw a conversation on television with a young Muslim man who shared something that stayed with me: that the Qur’an is the same everywhere in the world, while the Bible exists in many versions and interpretations. His comment wasn’t confrontational — it was honest, and it made me curious.
 
 I realized I wanted to understand the history behind that difference. Not to debate, but to learn. Not to prove anything, but to explore how these sacred texts were formed, preserved, translated, and passed down through time.
 
