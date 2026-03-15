@@ -13,12 +13,9 @@ For centuries, these teachings were memorized, recited, and passed down through 
 The Mishnah preserves this oral tradition and forms the foundation of the Talmud, shaping much of
 Jewish interpretation and practice.
 
-
-✔ Step 4 — Scroll down and click Commit changes again
+### The Oral Torah
 
-If you want, just tell me:
-“I’m ready to add the Mishnah section”
-and I’ll walk you through it step by step.
+The Oral Torah refers to the body of teachings, interpretations, and explanations that were passed down alongside the written Torah. These teachings helped people understand how to live out the commandments in daily life. For centuries, the Oral Torah was preserved through memorization and recitation before parts of it were eventually written down in works like the Mishnah and later the Talmud.                                                                                                                                                        ### The Oral Torah         
 
 ## The Old Testament / Hebrew Bible
 A simple explanation of its origins, structure, and historical development.
